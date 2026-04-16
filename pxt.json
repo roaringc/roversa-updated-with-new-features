@@ -1,5 +1,6 @@
 {
     "name": "Roversa Updated with New Features",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
