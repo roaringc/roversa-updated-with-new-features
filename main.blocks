@@ -1,0 +1,22 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="JmS^{.;sMbe9Mzh|t4mz">isSleeping</variable><variable id="bru3g[i=+Kec,,eQ;}T6">h</variable><variable id="*1:KK_Aj/WzbA2?Oh{i}">y</variable><variable id="X0DWmU-UzCZK(gf+THC#">i</variable><variable id="C(-4:He}nY*xDLO5HWt0">energy</variable><variable id="Vac}Nrp;I`p7X[-IA*,I">happiness</variable><variable id="e?0*Q)@B7QOxE{JgYPaZ">health</variable><variable id=",Yi~I~iIX_4${dD2]*De">satiation</variable><variable id="ciF;bHRhpJ(;Q#Q,ri[9">social</variable><variable id="|!L}Pf?=jLF6~))XG%tD">weight</variable><variable id="GvfF:.Yt,-Lr~GLela]v">lifespan</variable><variable id="a8T57JZzeC`(gZ5,/cj=">phoneTime</variable><variable id=".m]vXXx@OMyM0C$q^6.j">age</variable><variable id="0Y1-qbNZvdMyn$Q;+SAQ">customMeter</variable><variable id=":U4-$Ibl?n=12_~i:+h*">isDead</variable><variable id="t?v8BAIRtB{%1bdLF|BA">statPage</variable><variable id="KN9;B]vb4-y8rpMujJG|">isMoving</variable><variable id="9etp_q[kD?JhP5(wvq#h">r</variable><variable id="]M-]Ka@%ZWneN^5aRzf;">algoScore</variable><variable id="TxsFE3LKQ2v^Be;sc9*U">algoPhase</variable><variable id="WH4vD8;SPU=fuaZCa$6j">phoneBonusMulti</variable><variable id="B7}TbbS/)juP,z|RfQ5l">otherDampen</variable><variable id="-1R]gY(CHZJ_q1`qqkHb">customActionName</variable><variable id="L8:wET.QOh_kW7~w^ht*">weightGain</variable><variable id="qZJ@3^M|WH:[U,$B|+2a">moodBoost</variable><variable id="KIN}Qkn~LMso.D?vp2.(">forceValue</variable><variable id="YXDYh.ZyWH*mFei/6=o/">lastPetTime</variable><variable id="SCqKj$^TueiEEl{@fu*b">ageFactor</variable><variable id="7%Z.y={5eB{GP:.30|S{">drain</variable></variables><comment id="R=A=W.6kRJAa1(?*j{C?" x="6434" y="4158" w="480" h="360">
+RoversAIgotchi — updated client feedback version
+
+NEW PLAN:
+P16 = Music
+P15 = Dance
+P9  = Custom button kids can use
+Force Sensor on P0 = Pet
+Button B = cycle stat pages with 5 vertical bars
+
+OTHER BUTTON MAP:
+P8  = Phone
+P5  = Study
+P13 = Sleep
+P14 = Feed
+</comment><comment id="z_Uw.,+97#S#r]:zqFcw" x="0" y="5412" w="480" h="120">
+============================================================
+</comment><comment id="i}F55jZ3]Ar[`|]gNbPh" x="525" y="5412" w="160" h="120">
+VARIABLES
+</comment><comment id="687YP)%=j{/P^%fHM3Mk" x="730" y="5412" w="480" h="120">
+============================================================
+</comment></xml>
